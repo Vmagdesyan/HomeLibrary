@@ -1,3 +1,3 @@
 # HomeLibrary
-Frontend for home library
-Приложение для учёта прочтенных книг у отдельных пользователей
+Frontend parts for web application for home library
+<p>Приложение для учёта прочтенных книг у отдельных пользователей</p>
